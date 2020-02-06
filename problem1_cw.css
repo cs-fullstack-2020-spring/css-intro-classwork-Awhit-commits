@@ -1,0 +1,16 @@
+h1{
+    color:red;
+    padding: 20px 20px 20px 20px;
+    position: relative;
+    left: 25%;
+}
+
+h2{
+    color:blue;
+    border: 1px solid;
+}
+span{
+    color: green;
+    font-weight: bold;
+
+}
